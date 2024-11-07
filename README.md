@@ -1,13 +1,16 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://your-custom-dark-banner-image-link.png" alt="Kosuri Naga Tarun - Banner" width="100%" height="auto"/>
+  <img src="https://i.postimg.cc/J07DNL2c/github-profle.jpg" alt="Kosuri Naga Tarun - Banner" width="100%" height="auto"/>
 </div>
 
-<h1 align="center">Hi, I'm <span style="color:#00FF00">Kosuri Naga Tarun</span> 👋</h1>
-<h3 align="center" style="color: #00FF00;">Crafting Digital Experiences | Full-Stack Developer | AI & ML Enthusiast</h3>
+<h1 align="center">Kosuri Naga Tarun</h1>
+<h3 align="center" style="color: #FFFFFF;">Full-Stack Developer | AI & ML Enthusiast | Digital Innovator</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=440&lines=Software+Engineer+%7C+Digital+Architect;AI+%26+Machine+Learning+Enthusiast;Building+Future+Technology+Solutions" alt="Typing SVG">
+<p align="center" style="font-size: 1.2em; color: #FFFFFF; font-style: italic;">
+  Innovate. Code. Create.
+</p>
+<p align="center" style="font-size: 1em; color: #BBBBBB;">
+  Crafting Tomorrow's Technology Today.
 </p>
 
 ---
