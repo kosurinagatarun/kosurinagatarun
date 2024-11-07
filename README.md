@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Kosuri Naga Tarun</h1>
-<h3 align="center" style="color: #FFFFFF;">Full-Stack Developer | AI & ML Enthusiast | Digital Innovator</h3>
+<h3 align="center" style="color: #FFFFFF;">Full-Stack Developer | Laravel Specialist | AI & ML Enthusiast</h3>
 
 <p align="center" style="font-size: 1.2em; color: #FFFFFF; font-style: italic;">
   Innovate. Code. Create.
@@ -19,28 +19,39 @@
 
 ```json
 {
-  "location": "Hyderabad, Kerala, India",
-  "education": "Computer Science Undergraduate specializing in AI and ML",
-  "current_work": ["RARESAGA", "Fynpro"],
-  "skills": ["Photoshop", "Illustrator", "After Effects", "Flutter", "Laravel", "WordPress"],
-  "focus_areas": ["AI", "Machine Learning", "SaaS Platforms", "Web Development"]
+  "location": "Hyderabad, Telangana, India",
+  "education": "Bachelor of Technology in Computer Science, Amity University Raipur",
+  "current_role": "Laravel Developer at Digital i360",
+  "skills": ["Laravel", "PHP", "Python", "C Programming", "MySQL", "HTML5", "CSS"],
+  "focus_areas": ["Web Development", "Scalable Applications", "AI & Machine Learning", "Digital Solutions"],
+  "personal_interests": ["Music", "Cooking", "Photography", "Continuous Learning"]
 }
 ```
+
+---
+
+## 💼 Professional Summary
+
+I am a dedicated **Laravel Developer** at Digital i360 in Hyderabad, with expertise in creating dynamic, scalable, and efficient web applications. My role encompasses server-side logic, template integration, and database management, ensuring robust backend functionality that supports seamless user experiences.
+
+Graduating with a **Bachelor's in Computer Science** from Amity University Raipur, I have a strong foundation in **C Programming, Python, Data Structures, and MySQL**. I’m passionate about problem-solving, a quick learner, and enjoy collaborating within teams to bring innovative digital solutions to life.
+
+In addition to my technical background, I have personal interests in music, cooking, and photography, always looking for ways to challenge myself and learn.
 
 ---
 
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ---
@@ -48,14 +59,14 @@
 ## 🚀 Highlighted Projects
 
 ### **RARESAGA** 📚 – Digital eBook Marketplace
-A next-gen platform that empowers authors and engages readers in a dynamic digital library.
+A platform designed for authors and readers, providing tools for publishing, purchasing, and reviewing eBooks, with a focus on enhancing engagement and user experience.
 
 #### 🔑 Core Features
-- **Role-Based Access**: Separate privileges for Admins, Authors, and Readers.
-- **eBook Management**: Allows publishing, moderation, and reader reviews.
-- **Wallet & Payouts**: In-platform wallet for authors and payout requests.
-- **Analytics**: Provides insights on views, downloads, and earnings.
-- **Payment Integration**: Integrated PhonePe API for secure transactions.
+- **Role-Based Access**: Admins, Authors, and Readers with defined privileges.
+- **eBook Management**: Enables publishing, moderation, and user reviews.
+- **Wallet & Payouts**: In-platform wallet for authors to manage earnings.
+- **Analytics**: Real-time insights on views, downloads, and sales.
+- **Payment Integration**: PhonePe API for secure transactions.
 
 #### 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
@@ -67,14 +78,14 @@ A next-gen platform that empowers authors and engages readers in a dynamic digit
 ---
 
 ### **Fynpro** 🏢 – Modular SaaS Platform for Industry-Specific Solutions
-An adaptive SaaS platform for CRM and project management with industry-tailored features.
+An adaptive SaaS platform for CRM and project management with tailored features for industries like insurance and real estate.
 
 #### 🔑 Core Features
-- **Project & Task Management**: Includes dependencies, Gantt charts, and real-time collaboration.
-- **Industry-Specific CRM**: Tailored modules for different industries.
-- **Hybrid Pricing Model**: Subscription and pay-per-use features for flexible billing.
-- **AI Insights**: Predictive analytics for smarter decision-making.
-- **Custom Branding**: White-labeling options for enterprise clients.
+- **Project & Task Management**: Comprehensive task dependencies and Gantt charts.
+- **Industry-Specific CRM**: Customized CRM modules per industry.
+- **Hybrid Pricing Model**: Subscription with flexible pay-per-use options.
+- **AI Insights**: Data-driven recommendations and analytics.
+- **Custom Branding**: White-labeling capabilities for corporate clients.
 
 #### 🛠️ Tech Stack
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) 
