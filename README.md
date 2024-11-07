@@ -55,11 +55,11 @@ A next-gen platform that empowers authors and engages readers in a dynamic digit
 - **Payment Integration**: Integrated PhonePe API for secure transactions.
 
 #### 🛠️ Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![Blade](https://img.shields.io/badge/Blade-555555?style=flat&logo=laravel&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=javascript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![Blade](https://img.shields.io/badge/Blade-555555?style=flat-square&logo=laravel&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=javascript&logoColor=white)
 
 ---
 
@@ -74,11 +74,11 @@ An adaptive SaaS platform for CRM and project management with industry-tailored 
 - **Custom Branding**: White-labeling options for enterprise clients.
 
 #### 🛠️ Tech Stack
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -86,7 +86,7 @@ An adaptive SaaS platform for CRM and project management with industry-tailored 
 
 ### 🏅 GitHub Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kosurinagatarun&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kosurinagatarun&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies"/>
 </p>
 
 ### 📊 GitHub Stats
