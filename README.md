@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://i.postimg.cc/mDzvjFCj/github-profle1.jpg" alt="Kosuri Naga Tarun - Banner" width="100%" height="auto"/>
+  <img src="https://i.postimg.cc/Z5MWWKvr/github-profle-final.jpg" alt="Kosuri Naga Tarun - Banner" width="100%" height="auto"/>
 </div>
 
 <h1 align="center">Kosuri Naga Tarun</h1>
