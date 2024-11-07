@@ -34,19 +34,19 @@ I am a seasoned **Full-Stack Developer** with expertise in **Laravel** and **Vue
 </p>
 
 ### App Development
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
 ### Programming Languages
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ### Graphics & Video Editing
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects"/>
