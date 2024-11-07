@@ -66,7 +66,7 @@ An advanced SaaS platform tailored for CRM and project management with industry-
 - **Custom Branding**: White-labeling options with custom domains, logos, and color schemes.
 
 #### 🛠️ Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="border-radius: 10px; margin: 5px;"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js" style="border-radius: 10px; margin: 5px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 10px; margin: 5px;"/>
@@ -87,7 +87,7 @@ A content management and eBook marketplace platform for authors and readers, pro
 - **Payment Integration**: Secure transactions with integrated PhonePe API.
 
 #### 🛠️ Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="border-radius: 10px; margin: 5px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 10px; margin: 5px;"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border-radius: 10px; margin: 5px;"/>
